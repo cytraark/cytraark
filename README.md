@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ray Ghanim A @cytraark
-- 👀 I’m interested in Kotlin and MySQL
-- 🌱 I’m currently learning Android Development
+- 👀 I’m interested in Kotlin, React JS, and Next JS.
+- 🌱 I’m currently learning Android Development and Web Development
 - 📫 How to reach me https://www.linkedin.com/in/rayghanim/
 
 <!---

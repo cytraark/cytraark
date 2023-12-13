@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ray Ghanim A @cytraark
-- 👀 I’m interested in Kotlin, React JS, and Next JS.
-- 🌱 I’m currently learning Android Development and Web Development
+- 👀 I’m interested in Kotlin, React JS, and Next JS as Frontend Frameworks and Golang as Backend Lang.
+- 🌱 I’m currently learning Android Development and Web Development, but focuses more on the latter.
 - 📫 How to reach me https://www.linkedin.com/in/rayghanim/
 
 <!---
